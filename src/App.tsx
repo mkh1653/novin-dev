@@ -1,8 +1,12 @@
 import React from "react";
-import { Route, Routes, useLocation } from "react-router-dom";
+import { Route, Switch } from "react-router-dom";
 
 const App: React.FC = () => {
-  return <></>;
+  return (
+    <>
+      
+    </>
+  );
 };
 
 export default App;
